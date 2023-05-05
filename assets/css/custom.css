@@ -1,0 +1,19 @@
+#welcomscreen {
+  width: 100%;
+  background: linear-gradient(#17bdf2, #259ee2), #031931;
+  height: 100vh;
+  margin-right: 0px;
+  margin-left: 0px;
+  padding: 0px;
+  padding-right: 0;
+  padding-left: 0;
+  max-width: 100%;
+  clip-path: polygon(0 0, 100% 0, 100% calc(100% - 30px), 50% calc(100% - 15px), 0 calc(100% - 30px));
+}
+
+@media (min-width:768px) {
+  .navbar-brand {
+    display: none;
+  }
+}
+
