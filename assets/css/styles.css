@@ -1,0 +1,75 @@
+.nav-item {
+  margin: 13px;
+  margin-top: 0px;
+}
+
+.navhr {
+  margin-bottom: -5px;
+  border-radius: 55px;
+  background: #1657ac;
+  border-top: 7px none #1657ac;
+  height: 6px;
+  opacity: 1;
+  /*width: 37.3125px;*/
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.nava {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: #ffffff;
+}
+
+.dashboard {
+  margin-top: 91px;
+  width: 100%;
+  margin-right: 0;
+  margin-left: 0;
+  padding: 30px;
+  padding-right: 80px;
+  padding-left: 80px;
+}
+
+.ourservicesitem {
+  height: 300px;
+  background: #ffffff;
+  border-radius: 20px;
+  color: #c30137;
+}
+
+.ourservicesitemlottie {
+  width: 110.328px;
+  height: 118px;
+  margin-top: 16px;
+}
+
+.ourservicesitemhr {
+  margin-bottom: 25px;
+  border-radius: 55px;
+  background: #1657ac;
+  border-top: 7px none #1657ac;
+  height: 2px;
+  opacity: 1;
+  width: 132.3125px;
+  margin-right: 0;
+  margin-left: 0;
+  margin-top: 0px;
+}
+
+.social-bar {
+  position: fixed;
+  top: 50%;
+  left: 15px;
+  transform: translateY(-50%);
+  width: 60px;
+  padding-top: 15px;
+  padding-right: 0px;
+}
+
+.social-bar a {
+  display: block;
+  margin-bottom: 10px;
+}
+
